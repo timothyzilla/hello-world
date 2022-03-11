@@ -1,6 +1,6 @@
 # hello-world
 My first repository!
-# Abot me
+# About me
 
 My name is Tim and I am a student studying Information Technology at Johnson County Community College.
 
