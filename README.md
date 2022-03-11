@@ -1,6 +1,7 @@
 # hello-world
 My first repository!
-# timothyzilla
+# Abot me
+
 My name is Tim and I am a student studying Information Technology at Johnson County Community College.
 
 I am currently learning object oriented progamming with Java and writing scripts in Bash.
